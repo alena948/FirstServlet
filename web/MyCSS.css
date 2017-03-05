@@ -1,0 +1,2 @@
+.grid tr:nth-child(odd) {background: #808080}
+.grid tr:nth-child(even) {background: #fff}
