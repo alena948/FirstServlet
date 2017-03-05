@@ -11,6 +11,11 @@
     <title>MyPage</title>
     <meta charset="utf-8">
     <title>Results</title>
+    <style>
+        body {
+            background: #afd3ff;
+        }
+    </style>
 </head>
 <body>
 Hello! Input coeffs of the quadratic equation, please.
